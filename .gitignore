@@ -1,0 +1,21 @@
+# Ignore Node.js dependencies and build artifacts
+node_modules/
+chatbot/node_modules/
+dist/
+chatbot/dist/
+.env
+chatbot/.env
+# .bolt/  # Commented out to include the .bolt folder in chatbot
+
+# PHP and XAMPP
+uploads/
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
