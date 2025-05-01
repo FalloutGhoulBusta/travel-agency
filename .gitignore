@@ -5,7 +5,7 @@ dist/
 chatbot/dist/
 .env
 chatbot/.env
-# .bolt/  # Commented out to include the .bolt folder in chatbot
+chatbot/.bolt/
 
 # PHP and XAMPP
 uploads/
