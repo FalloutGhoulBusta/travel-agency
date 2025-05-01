@@ -5,6 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178c6)
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-646cff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1-38bdf8)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/FalloutGhoulBusta/travel-agency)
 
 ## Overview
 

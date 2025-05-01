@@ -4,6 +4,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3)
 ![React](https://img.shields.io/badge/React_Chatbot-18.3.1-61DAFB)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/FalloutGhoulBusta/travel-agency)
 
 ## Overview
 
@@ -23,25 +24,25 @@ Travelminds is a modern, full-featured travel agency website that helps users di
 
 ```
 travel-agency/
-u251cu2500u2500 admin/                  # Admin panel for managing content
-u251cu2500u2500 chatbot/                # React-based AI chatbot (see chatbot/README.md)
-u251cu2500u2500 config/                 # Configuration files
-u251cu2500u2500 css/                    # Stylesheets
-u251cu2500u2500 database/               # Database scripts and backups
-u251cu2500u2500 images/                 # Image assets
-u251cu2500u2500 includes/               # PHP include files
-u251cu2500u2500 js/                     # JavaScript files
-u251cu2500u2500 php/                    # PHP scripts for various pages
-u2502   u251cu2500u2500 api_*.php           # API endpoints for the chatbot
-u2502   u251cu2500u2500 cart.php            # Shopping cart functionality
-u2502   u251cu2500u2500 destinations.php     # Destination listings
-u2502   u251cu2500u2500 packages.php         # Travel package listings
-u2502   u251cu2500u2500 login.php            # User authentication
-u2502   u2514u2500u2500 profile.php          # User profile management
-u251cu2500u2500 index.php               # Main homepage
-u251cu2500u2500 update-ngrok-urls.ps1   # Script for updating URLs when using ngrok
-u251cu2500u2500 run-ngrok-updater.bat   # Batch file to run the ngrok URL updater
-u2514u2500u2500 README.md               # This documentation
+├── admin/                  # Admin panel for managing content
+├── chatbot/                # React-based AI chatbot (see chatbot/README.md)
+├── config/                 # Configuration files
+├── css/                    # Stylesheets
+├── database/               # Database scripts and backups
+├── images/                 # Image assets
+├── includes/               # PHP include files
+├── js/                     # JavaScript files
+├── php/                    # PHP scripts for various pages
+│   ├── api_*.php           # API endpoints for the chatbot
+│   ├── cart.php            # Shopping cart functionality
+│   ├── destinations.php    # Destination listings
+│   ├── packages.php        # Travel package listings
+│   ├── login.php           # User authentication
+│   └── profile.php         # User profile management
+├── index.php               # Main homepage
+├── update-ngrok-urls.ps1   # Script for updating URLs when using ngrok
+├── run-ngrok-updater.bat   # Batch file to run the ngrok URL updater
+└── README.md               # This documentation
 ```
 
 ## Technologies Used
@@ -76,7 +77,7 @@ u2514u2500u2500 README.md               # This documentation
 1. **Set up the website:**
    ```bash
    # Clone the repository to your XAMPP htdocs folder
-   git clone https://your-repository-url.git travel-agency
+   git clone https://github.com/FalloutGhoulBusta/travel-agency.git travel-agency
    ```
 
 2. **Import the database:**
