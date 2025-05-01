@@ -12,13 +12,13 @@ Travelminds is a modern, full-featured travel agency website that helps users di
 
 ## Features
 
-- ud83cudf0e **Destination Showcase**: Explore popular travel destinations with rich imagery and details
-- ud83cudf92 **Travel Packages**: Browse and book curated travel packages
-- ud83duded2 **Shopping Cart**: Add packages to cart and proceed to checkout
-- ud83dudc64 **User Accounts**: Register, login, and manage your profile
-- ud83dudcac **AI Chatbot**: Interactive assistant to help with bookings and inquiries
-- ud83dudcf1 **Responsive Design**: Optimized for all devices from mobile to desktop
-- ud83dudd12 **Secure Authentication**: Protected user accounts and data
+- 🗺️ **Destination Showcase**: Explore popular travel destinations with rich imagery and details
+- ✈️ **Travel Packages**: Browse and book curated travel packages
+- 🛍️ **Shopping Cart**: Add packages to cart and proceed to checkout
+- 👥 **User Accounts**: Register, login, and manage your profile
+- 🤖 **AI Chatbot**: Interactive assistant to help with bookings and inquiries
+- 📱 **Responsive Design**: Optimized for all devices from mobile to desktop
+- 🔒 **Secure Authentication**: Protected user accounts and data
 
 ## Project Structure
 
