@@ -13,8 +13,6 @@ The Travelminds web application is a browser-based travel booking platform built
 
 * **Destination Discovery System**
 
-* **Destination Discovery System**
-
   * Responsive card-grid layout showcasing available destinations with images and summaries.
   * Advanced search and filtering by destination name, country, or description.
   * Dynamic price range indicators computed from associated travel packages.
