@@ -1,0 +1,1 @@
+Travelminds Travel Agency is a full-featured travel booking platform built with PHP, MySQL, and an integrated React chatbot. It allows users to explore destinations, book packages, manage their cart, and receive assistance through an AI-powered chat interface.
