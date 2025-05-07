@@ -86,10 +86,9 @@
     - [7.4.3 External Services](#743-external-services)
 - [8. Glossary](#8-glossary)
 - [9. Assumptions and Dependencies](#9-assumptions-and-dependencies)
-- [10. References](#10-references)
-- [11. Appendices](#11-appendices)
-  - [11.1 Appendix A: System Architecture Diagram](#111-appendix-a-system-architecture-diagram)
-  - [11.2 Appendix B: Database Schema](#112-appendix-b-database-schema)
+- [10. Appendices](#10-appendices)
+  - [10.1 Appendix A: System Architecture Diagram](#101-appendix-a-system-architecture-diagram)
+  - [10.2 Appendix B: Database Schema](#102-appendix-b-database-schema)
 
 ## 1. Introduction
 
@@ -775,17 +774,10 @@ The chatbot system provides an AI-powered travel assistant interface integrated 
 
 ## 9. Assumptions and Dependencies
 
-* The system assumes a stable internet connection
-* The system depends on a payment gateway
-* The system depends on a reporting system
+* The system assumes a stable internet connection for API calls and web requests.
 
-## 10. References
+## 10. Appendices
 
-* \[1] Payment Gateway API Documentation
-* \[2] Reporting System API Documentation
+### 10.1 Appendix A: System Architecture Diagram
 
-## 11. Appendices
-
-### 11.1 Appendix A: System Architecture Diagram
-
-### 11.2 Appendix B: Database Schema
+### 10.2 Appendix B: Database Schema
